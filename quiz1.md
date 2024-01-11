@@ -1,4 +1,4 @@
-# QUIZ1
+# Only you can save the day!
 
 ##Scenario:
 **You work at a fintech startup as a junior software developer. You've been tasked with a critical challenge!**
