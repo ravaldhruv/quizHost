@@ -1,4 +1,4 @@
-# Can you figure out the issues?
+# Can you figure out the issues? 
 
 ## Scenario:
 **You work at a fintech startup as a junior software developer. You've been tasked with a critical challenge!**
