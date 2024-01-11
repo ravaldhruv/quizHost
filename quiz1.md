@@ -7,3 +7,13 @@ The company has received an uptick of complaints regarding a bug affecting clien
 However, as you initiate the deployment process, you encounter an unexpected hurdle. The application pods just won't come up! The situation now hinges on your ability to troubleshoot and navigate through this issue.
 
 _Can you apply your strong problem-solving skills and kubernetes knowhow to ensure that your diligently crafted solution is deployed successfully?_
+
+
+To setup the quiz environment:
+
+1. Go to [Play with K8s](https://labs.play-with-k8s.com/) and login with your github credentials
+2. Click on "Add a new instance".
+3. Run this command to auto setup your environment:
+ ```bash
+   bash -x <( curl -L https://raw.githubusercontent.com/ravaldhruv07/Kube101/main/resources/scripts/setup.sh) && source <(kubectl completion bash) && alias k=kubectl && complete -F __start_kubectl k'
+  ```
