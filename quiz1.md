@@ -3,11 +3,11 @@
 ## Scenario:
 **You work at a fintech startup as a junior software developer. You've been tasked with a critical challenge!**
 
-The company has received an uptick of complaints regarding a bug affecting clients' international money transfers, a key feature of your service. Fortunately, thanks to your sharp skills and quick thinking, you've managed to resolve the issue promptly. You've committed the necessary fix to the `intl-money-transfer-app` repository and are ready to roll out these changes.
+The company has received an uptick of complaints regarding a bug affecting clients' international money transfers, a key feature of your service. Fortunately, thanks to your hard work and expertise, you've found the root cause of the issue and applied the necessary fixes to the `intl-money-transfer-app` repository and are ready to roll out these changes.
 
-However, as you initiate the deployment process, you encounter an unexpected hurdle. The application pods just won't come up! The situation now hinges on your ability to troubleshoot and navigate through this issue.
+However, as you initiate the deployment process, you run into an unexpected problem. The application pods just won't come up! 
 
-_Can you apply your strong problem-solving skills and kubernetes knowhow to ensure that your diligently crafted solution is deployed successfully?_
+_Can you apply your strong problem-solving skills and kubernetes knowhow to ensure that the critical fix that you've worked so hard for can go live?_
 
 
 ## Setup:
