@@ -21,10 +21,10 @@ _Can you apply your strong problem-solving skills and kubernetes knowhow to ensu
 4. There's a quiz1.yml file on your terminal. You can view its contents with ``` cat quiz1.yml ```
 5. You can run the command ```k apply -f quiz1.yml ``` to attempt scheduling your pod/application.
 6. Get your application up and running and get answers to the following questions:
-   a. Which Quiz are you submitting? **(Answer: Quiz1)**
-   b. Describe what was wrong with the deployment? What commands did you run to debug?
-   c. Why did the yaml spin up 2 pods instead of 1?
-   d. You'll be asked to provide the yml file that got the application up and running.
+   - Which Quiz are you submitting? **(Answer: Quiz1)**
+   - Describe what was wrong with the deployment? What commands did you run to debug?
+   - Why did the yaml spin up 2 pods instead of 1?
+   - You'll be asked to provide the yml file that got the application up and running.
 
 
 ## When you're ready. Submit your answers here:
