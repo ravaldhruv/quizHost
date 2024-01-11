@@ -21,4 +21,4 @@ yaml_content+=$'        - containerPort: 80\n'
 
 
 echo "$yaml_content" > quiz1.yml
-k apply -f quiz1.yml
+kubectl apply -f quiz1.yml
